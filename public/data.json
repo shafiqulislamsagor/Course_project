@@ -4,7 +4,7 @@
         "course_name": "Introduction to Python Programming",
         "course_description": "Learn the fundamentals of Python programming language, including basic syntax, data types, and control structures.",
         "course_price": 7000,
-        "course_cover": "../public/31_How-to-Create-a-Programming-Course_.jpg",
+        "course_cover": "../src/assets/pic1.webp",
         "course_duration": "4 weeks",
         "instructor": "Dr. Jane Smith"
     },
@@ -13,7 +13,7 @@
         "course_name": "Web Development with JavaScript",
         "course_description": "Explore the world of web development using JavaScript. Covers client-side scripting, DOM manipulation, and AJAX techniques.",
         "course_price": 3500,
-        "course_cover": "../public/52c9a98cf9e0-5.webp",
+        "course_cover": "../src/assets/pic2.jpg",
         "course_duration": "6 weeks",
         "instructor": "John Doe"
     },
@@ -22,7 +22,7 @@
         "course_name": "Data Science Fundamentals",
         "course_description": "An introduction to the basics of data science, including statistical analysis, data visualization, and machine learning concepts.",
         "course_price": 3200,
-        "course_cover": "../public/9f15109746df254c5a030a7ba9239f8a4bb5dadb-1456x816.webp",
+        "course_cover": "../src/assets/pic3.webp",
         "course_duration": "8 weeks",
         "instructor": "Dr. Emily Johnson"
     },
@@ -31,7 +31,7 @@
         "course_name": "Mobile App Development with React Native",
         "course_description": "Learn how to build cross-platform mobile applications using React Native framework. Covers UI development, state management, and deployment.",
         "course_price": 2500,
-        "course_cover": "../public/Best-C-Programming-Courses-For-Beginners.png",
+        "course_cover": "../src/assets/pic4.png",
         "course_duration": "10 weeks",
         "instructor": "Alex Brown"
     },
@@ -40,7 +40,7 @@
         "course_name": "Introduction to Machine Learning",
         "course_description": "An overview of machine learning concepts, algorithms, and applications. Includes supervised and unsupervised learning techniques.",
         "course_price": 5000,
-        "course_cover": "../public/Best-Programming-Courses.webp",
+        "course_cover": "../src/assets/pic5.webp",
         "course_duration": "12 weeks",
         "instructor": "Dr. Michael Clark"
     },
@@ -49,7 +49,7 @@
         "course_name": "Ethical Hacking and Cybersecurity",
         "course_description": "Explore the techniques and tools used in ethical hacking and cybersecurity. Covers penetration testing, network security, and cryptography.",
         "course_price": 8000,
-        "course_cover": "../public/images.jpeg",
+        "course_cover": "../src/assets/pic6.jpeg",
         "course_duration": "14 weeks",
         "instructor": "Sarah Johnson"
     },
@@ -58,7 +58,7 @@
         "course_name": "Advanced Java Programming",
         "course_description": "Take your Java skills to the next level with advanced topics such as multithreading, network programming, and design patterns.",
         "course_price": 3000,
-        "course_cover": "../public/programming-language-2.png",
+        "course_cover": "../src/assets/pic7.png",
         "course_duration": "8 weeks",
         "instructor": "Dr. William Anderson"
     },
@@ -67,7 +67,7 @@
         "course_name": "Full-Stack Web Development with MERN",
         "course_description": "A comprehensive course covering MongoDB, Express.js, React.js, and Node.js for full-stack web development.",
         "course_price": 4600,
-        "course_cover": "../public/What is computer programming.jpeg",
+        "course_cover": "../src/assets/pic8.jpeg",
         "course_duration": "16 weeks",
         "instructor": "James Smith"
     },
@@ -76,7 +76,7 @@
         "course_name": "Artificial Intelligence and Neural Networks",
         "course_description": "Dive deep into artificial intelligence and neural networks. Covers neural network architectures, deep learning, and natural language processing.",
         "course_price": 5500,
-        "course_cover": "../public/31_How-to-Create-a-Programming-Course_.jpg",
+        "course_cover": "../src/assets/pic3.webp",
         "course_duration": "14 weeks",
         "instructor": "Dr. Samantha Brown"
     }
