@@ -30,7 +30,7 @@ function App() {
         <div className='sticky top-0'>
           <Header product={product}  price={price}></Header>
         </div>
-        <Main click={click}></Main>
+        
         {product.length > 0 && (<h2 id='views' className='text-center text-3xl text-gray-700 font-bold mt-10 mb-7'>
           Selected Course
         </h2>
@@ -41,6 +41,7 @@ function App() {
           }
         </div>
       </div >
+      <Main click={click}></Main>
     </>
   )
 }
