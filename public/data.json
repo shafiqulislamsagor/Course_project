@@ -76,7 +76,7 @@
         "course_name": "Artificial Intelligence and Neural Networks",
         "course_description": "Dive deep into artificial intelligence and neural networks. Covers neural network architectures, deep learning, and natural language processing.",
         "course_price": 5500,
-        "course_cover": "../public/What is computer programming.jpeg",
+        "course_cover": "../public/31_How-to-Create-a-Programming-Course_.jpg",
         "course_duration": "14 weeks",
         "instructor": "Dr. Samantha Brown"
     }
