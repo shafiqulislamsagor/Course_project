@@ -1,7 +1,9 @@
 import PropTypes from 'prop-types';
 
 const Header = ({product,price}) => {
-    console.log(product.length);
+
+
+    // console.log(product.length);
     return (
         <div className="navbar bg-base-100">
             <div className="flex-1">
@@ -48,7 +50,8 @@ const Header = ({product,price}) => {
 }
 
 Header.propTypes = {
-    product: PropTypes.object.isRequired,
+    product: PropTypes.array.isRequired,
+    price: PropTypes.number.isRequired,
 };
 
 export default Header;
