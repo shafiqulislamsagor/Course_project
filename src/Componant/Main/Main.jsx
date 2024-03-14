@@ -8,7 +8,7 @@ const Main = ({click}) => {
 
     useEffect(() => {
         const data = async () => {
-            const fec = await fetch('data.json');
+            const fec = await fetch('./data.json');
             const res = await fec.json();
             const data = res;
             setCards(data)
